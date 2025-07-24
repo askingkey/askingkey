@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keyzh99@gmail.com)](mailto:keyzh99@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-keyzh99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keyzh99@gmail.com)](mailto:keyzh99@gmail.com)
 
 I am Keyao Zhu 😃. I am from Jiangsu, China and currently dstudying for a Ph.D. in biology from Peking University.I love to explore and learn about new things.
 
