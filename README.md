@@ -4,7 +4,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-keyzh99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keyzh99@gmail.com)](mailto:keyzh99@gmail.com)
 
-I am Keyao Zhu 😃. I am from Jiangsu, China and currently dstudying for a Ph.D. in biology from Peking University.I love to explore and learn about new things.
+I am Keyao Zhu 😃. I am from Jiangsu, China and currently dstudying for a Ph.D. in biology from Peking University. I love to explore and learn about new things.
 
 ## Hello World!! 
 - 💬 Ask me about anything and everything.
