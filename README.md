@@ -6,10 +6,6 @@
 
 I am Keyao Zhu 😃. I am from Jiangsu, China and currently studying for a Ph.D. in biology at Peking University. I love to explore and learn about new things.
 
-## Hello World!! 
-- 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [Askingkey Blog](https://askingkey.github.io)
-
 [![askingkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=askingkey)](https://github.com/askingkey/github-readme-stats)
 
 
