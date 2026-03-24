@@ -6,6 +6,9 @@
 
 I am studying for a Ph.D. in biology at Peking University. I love to explore and learn about new things.
 
+Previous works:
+1. cfDNAanalyzer, github: LiymLab/cfDNAanalyzer, https://www.biorxiv.org/content/10.1101/2025.06.09.658767v1
+
 [![askingkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=askingkey)](https://github.com/askingkey/github-readme-stats)
 
 
