@@ -4,7 +4,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-keyzh99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keyzh99@gmail.com)](mailto:keyzh99@gmail.com)
 
-I am Keyao Zhu 😃. I am from Jiangsu, China and currently studying for a Ph.D. in biology at Peking University. I love to explore and learn about new things.
+I am studying for a Ph.D. in biology at Peking University. I love to explore and learn about new things.
 
 [![askingkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=askingkey)](https://github.com/askingkey/github-readme-stats)
 
