@@ -3,7 +3,7 @@
 I am studying for a Ph.D. at Peking University. I love to explore and learn about new things.
 
 Previous works:
-1. **cfDNAanalyzer**, github: LiymLab/cfDNAanalyzer, Zhou J, Zhu K, Huang X ...
+1. **cfDNAanalyzer**, **Github:** LiymLab/cfDNAanalyzer, **Citation:** Zhou J, Zhu K, Huang X ...
 A comprehensive toolkit for analyzing cell-free DNA genomic sequencing data in liquid biopsy
 iScience, 2026; 29
 
